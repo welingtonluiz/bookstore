@@ -16,3 +16,75 @@
     margin-bottom: 0.25rem;
     font-size: 5rem;
 }
+
+#book-one{
+    text-align: center;
+}
+
+#book-one h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+#book-one a {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+
+#book-one img {
+    margin-top: 50px;
+    width: 40rem;
+}
+
+#book-two {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+#book-two h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+#book-two h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+
+
+#book-two a {
+    padding: .40rem 2.25rem;
+    margin: 10px;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+
+#book-three {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+#book-three h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+#book-three h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+#book-three a {
+    padding: .40rem 2.25rem;
+    margin: 10px;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
